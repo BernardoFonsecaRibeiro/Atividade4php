@@ -56,6 +56,7 @@ O projeto visa consolidar o aprendizado e podem ser utilizados como portfólio p
 ```
 ---
 ## 📖 Exemplos de Código
+
 //<?php
    // if ($_SERVER["REQUEST_METHOD"] == "POST") {
      //   $valor_real = floatval($_POST["valor_real"]);
